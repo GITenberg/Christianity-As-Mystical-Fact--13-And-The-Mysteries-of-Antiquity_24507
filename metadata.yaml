@@ -1,0 +1,37 @@
+_repo: Christianity-As-Mystical-Fact--13-And-The-Mysteries-of-Antiquity_24507
+_version: 0.1.0
+alternative_title: Christentum als mystische Tatsache und die Mysterien des Altertums.
+  English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+  editor:
+    agent_name: Collison, Harry
+    gutenberg_agent_id: '26536'
+    url: http://www.gutenberg.org/2009/agents/26536
+description: ''
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity and other religions'
+- !lcsh 'Mysteries, Religious'
+- !lcsh 'Anthroposophy'
+- !lcc 'BR'
+- !lcsh 'Mysticism'
+title: Christianity as Mystical Fact, and the Mysteries of Antiquity
+url: http://www.gutenberg.org/ebooks/24507
