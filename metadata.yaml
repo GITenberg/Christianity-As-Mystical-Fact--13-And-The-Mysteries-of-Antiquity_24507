@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '26536'
     url: http://www.gutenberg.org/2009/agents/26536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24507#Christianity-As-Mystical-Fact--13-And-The-Mysteries-of-Antiquity
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
 identifiers:
